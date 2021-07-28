@@ -15,7 +15,6 @@
 
 - 🔭  I'm a second year student pursuing Bachelors's in Computer Science 🎓 from IIT JAMMU 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
-- 🌱 I’m currently learning Devops. 
 
 - 👯 I’m looking to collaborate on Web Dev Projects.
  
