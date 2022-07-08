@@ -6,7 +6,7 @@ I love working on **open-source** projects and collabrate with other developers.
 
 ### ⚡ My Work
 
-You can find all of my projects on **[GitHub](https://github.com/BetaHuhn?tab=repositories)**.
+You can find all of my projects on **[GitHub](https://github.com/nsachin08?tab=repositories)**.
 
 ### 🔨 The tools I use
 
