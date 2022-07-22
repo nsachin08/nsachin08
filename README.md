@@ -10,7 +10,7 @@ You can find all of my projects on **[GitHub](https://github.com/nsachin08?tab=r
 
 ### 🔨 The tools I use
 
-`.html`, `.js`, `.css`, `.react-js` , `.cpp` , `.py`
+`.html`, `.js`, `.css`, `.jsx` , `.cpp` , `.py`
 
 ### 📫 How to reach me
 
