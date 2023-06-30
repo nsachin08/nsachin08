@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Sachin** (@nsachin08), I am currently pursuing my B.Tech(Computer Science & Engineering). 
+My name is **Sachin** (@nsachin08), Graduated B.Tech(Computer Science & Engineering) from IIT JAMMU'23. 
 
 I love working on **open-source** projects and collabrate with other developers. I'm also an avid **photographer**.
 
